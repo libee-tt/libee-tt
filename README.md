@@ -12,7 +12,7 @@
     <a href="https://www.generation.org/" target="_blank"><img src="https://www.generation.org/wp-content/uploads/2023/03/Generation_logo_blue.svg" alt="Generation" height="30"/>
     </a> 
     <a href="https://bedu.org/" target="_blank"><img src="https://pro-becas-images-s3.s3.eu-west-1.amazonaws.com/public_documents/4a75f0e4-8412-49e7-8e4b-47bdd2fe67b9" alt="BEDU" height="30"/></a>
-    <a href="https://www.tecnolochicas.org/" target="_blank"><img src="https://tecnolochicas.mx/static/images/tecnolochicas-logo.png" alt="Tecnolochicas" height="30"/></a>
+    <a href="https://www.tecnolochicas.org/" target="_blank"><img src="https://s8968.pcdn.co/crn/wp-content/uploads/sites/7/2016/04/TecnoloChicasDOTorg_two-color-01.png" alt="Tecnolochicas" height="30"/></a>
 </p>
 
 
